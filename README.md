@@ -64,12 +64,3 @@ Migração de sistemas de Visual FoxPro para C# e melhorias de performance.
 * Evoluindo em arquitetura de software e boas práticas em .NET
 
 ---
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leandrocha&show_icons=true&theme=default"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocha&layout=compact&theme=default"/>
-</p>
-
----
