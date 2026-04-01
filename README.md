@@ -1,65 +1,75 @@
-<h1 align="center">Fala! Eu sou o Leandro 👋</h1>
+<h1 align="center">Leandro Rocha</h1>
 
 <p align="center">
-  💻 Desenvolvedor C# / .NET | Experiência com sistemas reais em produção  
-  🚀 Focado em backend, performance e boas práticas
+  <strong>Desenvolvedor C# / .NET</strong><br/>
+  Backend • APIs • Sistemas em produção
 </p>
 
-### 🧠 Sobre mim
+<p align="center">
+  <a href="https://linkedin.com/in/leandrocha42">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leandrocha42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 💼 Desenvolvedor C# e .NET com experiência profissional desde 2019
-- 🏢 Atualmente na Ágil Sistemas
-- 🔧 Experiência com manutenção, melhorias e criação de sistemas
-- 📊 Pós-graduação em IA e Ciência de Dados (em andamento)
-- 🎯 Foco em evolução constante e desafios técnicos
+---
 
-### 🚀 Tecnologias
+### 🧠 Sobre
 
-#### 💻 Backend
-- C#, .NET, ASP.NET
+Desenvolvedor com experiência profissional desde 2019, atuando com C# e .NET no desenvolvimento e manutenção de sistemas reais.
 
-#### 🗄️ Banco de Dados
-- SQL Server
+Atualmente na **Ágil Sistemas**, trabalhando com evolução de aplicações, correção de bugs e implementação de melhorias contínuas.
 
-#### 🌐 Frontend
-- React, TypeScript, JavaScript, HTML, CSS, Bootstrap
+Interesse em arquitetura de software, performance e boas práticas.
 
-#### 📱 Mobile
-- Flutter
+---
 
-#### ⚙️ Outros
-- Git, APIs REST, manutenção de sistemas legados
+### 🛠️ Stack
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=leandrocha&show_icons=true&theme=tokyonight)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocha&layout=compact&theme=tokyonight)
-
-</div>
+---
 
 ### 💼 Experiência
 
-**💻 Desenvolvedor C#/.NET – Ágil Sistemas (2021 - Atual)**
-- Desenvolvimento e manutenção de sistemas
-- Implementação de melhorias e correção de bugs
-- Criação de interfaces e novas funcionalidades
+**Desenvolvedor C#/.NET – Ágil Sistemas (2021 - Atual)**
+Desenvolvimento e manutenção de sistemas, melhorias contínuas e correção de bugs.
 
-**🛠️ Estágio em Infraestrutura – ALMG**
-- Suporte técnico e manutenção de computadores
-- Análise e melhoria de serviços de rede
+**Estágio em Infraestrutura – ALMG (2020 - 2022)**
+Suporte técnico, redes e manutenção de computadores.
 
-**💻 Estágio C#/.NET – Attest**
-- Migração de sistemas de Visual FoxPro para C#
-- Correção de bugs e melhorias de performance
+**Estágio C#/.NET – Attest (2019 - 2020)**
+Migração de sistemas de Visual FoxPro para C# e melhorias de performance.
 
-### 🎯 Atualmente focado em
+---
 
-- 🔥 Aprimorar arquitetura em .NET
-- 🤖 Inteligência Artificial e Ciência de Dados
-- ⚡ Performance e boas práticas de código
+### 🎯 Atualmente
 
-### 📫 Contato
+* Pós-graduação em Inteligência Artificial e Ciência de Dados
+* Evoluindo em arquitetura de software e boas práticas em .NET
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrocha42)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrocha42@gmail.com)
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leandrocha&show_icons=true&theme=default"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocha&layout=compact&theme=default"/>
+</p>
+
+---
